@@ -1,4 +1,6 @@
 ### Module 12 Challenge: Javascript, CSS, Plotly, and Dashboards
+![Complete Webpage](https://user-images.githubusercontent.com/102566199/177640330-5ec76a7e-09fd-4a31-a035-1d3eb3cb8677.png)
+
 
 ## Overview
 
@@ -20,7 +22,7 @@ Data needs to be conveyed to the volunteers and other researchers. For volunteer
 
 ![Volunteer Thanks](https://user-images.githubusercontent.com/102566199/177640148-88b4255a-e58d-4a59-b949-55219e19f71c.png)
 
-* Demographic Info, Bacteria Bar Chart, and Belly Washing Gauge* 
+*Demographic Info, Bacteria Bar Chart, and Belly Washing Gauge* 
 
 ![Dashboard Charts](https://user-images.githubusercontent.com/102566199/177639734-17955be6-41ff-4c23-ae19-a1dd6056f185.png)
 
