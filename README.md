@@ -30,3 +30,6 @@ Data needs to be conveyed to the volunteers and other researchers. For volunteer
 *Colonizing Bacteria Bubble Chart*
 
 ![Interactive Bubble Chart](https://user-images.githubusercontent.com/102566199/177640005-162ab9dd-91ce-400e-81b3-d11bff1d7acc.png)
+
+
+PSA: https://ibachrachel.github.io/Belly-Button-Biodiversity/ website link doesn't work display charts when hosted through github, but does when hosted on localhost:8000 [Windows]
