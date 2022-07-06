@@ -24,7 +24,8 @@ Data needs to be conveyed to the volunteers and other researchers. For volunteer
 
 *Demographic Info, Bacteria Bar Chart, and Belly Washing Gauge* 
 
-![Dashboard Charts](https://user-images.githubusercontent.com/102566199/177639734-17955be6-41ff-4c23-ae19-a1dd6056f185.png)
+![Interactive Dashboard](https://user-images.githubusercontent.com/102566199/177640541-7b4bd21a-cb31-4109-a024-441d35d32f10.png)
+
 
 *Colonizing Bacteria Bubble Chart*
 
